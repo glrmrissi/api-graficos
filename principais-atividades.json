@@ -1,36 +1,36 @@
 { 
     "Instagram": {
-        "Vender produtos": 20,
-        "Post de fotos e videos": 30,
-        "Entreterimento": 35,
-        "Noticias": 15
+        "vender_produtos": 20,
+        "post_fotos_videos": 30,
+        "entreterimento": 35,
+        "noticias": 15
     },
     
     "Youtube": {
-        "Vender produtos": 5,
-        "Post de fotos e videos": 40,
-        "Entreterimento": 50,
-        "Noticias": 5
+        "vender_produtos": 5,
+        "post_fotos_videos": 40,
+        "entreterimento": 50,
+        "noticias": 5
     },
     
     "TikTok": {
-        "Vender produtos": 20,
-        "Post de fotos e videos": 30,
-        "Entreterimento": 35,
-        "Noticias": 15
+        "vender_produtos": 20,
+        "post_fotos_videos": 30,
+        "entreterimento": 35,
+        "noticias": 15
     },
     
     "Twitter": {
-        "Vender produtos": 30,
-        "Post de fotos e videos": 10,
-        "Entreterimento": 35,
-        "Noticias": 25
+        "vender_produtos": 30,
+        "post_fotos_videos": 10,
+        "entreterimento": 35,
+        "noticias": 25
     },
 
     "WhatsApp": {
-        "Vender produtos": 5,
-        "Post de fotos e videos": 60,
-        "Entreterimento": 25,
-        "Noticias": 10
+        "vender_produtos": 5,
+        "post_fotos_videos": 60,
+        "entreterimento": 25,
+        "noticias": 10
     }
 }
